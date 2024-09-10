@@ -1,0 +1,5 @@
+package com.DP;
+
+public abstract class EnemyFactory {
+	 public abstract Enemy createEnemy();
+}
